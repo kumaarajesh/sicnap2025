@@ -16,7 +16,7 @@ for day in week_weather:
     print(day + " - Weather: " + weather)
     
     if weather == "sunny":
-        print("Suggestion: Go for a walk or play outside.")
+        print("Suggestion:  a walk or play outside.")
     elif weather == "rainy":
         print("Suggestion: Read a book or watch a movie indoors.")
     elif weather == "cloudy":
