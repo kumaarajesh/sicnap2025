@@ -21,7 +21,7 @@ for day in week_weather:
         print("Suggestion: Read a book or watch a movie indoors.")
     elif weather == "cloudy":
         print("Suggestion: Take a quiet walk or visit a café.")
-    elif weather == "stormy":
+    elif weather == "sunny":
         print("Suggestion: Stay inside and avoid going out.")
     else:
         print("Suggestion: No data available.")
